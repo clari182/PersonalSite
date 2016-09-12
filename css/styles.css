@@ -1,0 +1,31 @@
+.service-box .globant {
+	width: 321px;
+    margin-top: 12px;
+}
+
+.service-box .pedidosya {
+	width: 321px;
+    margin-top: 12px;
+}
+
+.social-media.row{
+	margin-left: 38.666667%;
+}
+
+.social-media a {
+	color: #FFFFFF;
+}
+
+footer {
+	background-color: #736f6f;
+}
+
+@media (max-width: 1200px) {
+	.social-media.row{
+		margin-left: 0;
+	}
+}
+
+#about .me{
+	border-radius: 88%;
+}

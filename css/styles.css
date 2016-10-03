@@ -29,3 +29,7 @@ footer {
 #about .me{
 	border-radius: 88%;
 }
+
+header .me {
+	border-radius: 88%;
+}
